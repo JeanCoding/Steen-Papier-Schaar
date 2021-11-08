@@ -1,11 +1,11 @@
 # Rock, Paper, Scissors
 
-Een Steen Papier Schaar, spel waar ik aan heb gewerkt om mijn JavaScript te verbeteren.
+Een Steen Papier Schaar spel waar ik aan heb gewerkt om mijn JavaScript te verbeteren.
 
 
 ## Wat kan je allemaal met Steen, Papier, Schaar?
 
-- Tegen, de computer spelen.
+- Tegen de computer spelen.
 
 
 
