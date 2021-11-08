@@ -11,7 +11,7 @@ Een Steen Papier Schaar, spel waar ik aan heb gewerkt om mijn JavaScript te verb
 
 ## Tech
 
-Gebruikte Progammeertalen
+Gebruikte Programmeertalen
 - HTML - Voor de Front-End.
 - CSS - Voor het Front-End Design.
 - Javascript - Voor alle animaties/Dark Mode
